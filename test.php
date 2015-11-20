@@ -1,3 +1,3 @@
 <?php
-echo"vinvinvin"gfddfg
+echo"vin"
 ?>
